@@ -1,0 +1,29 @@
+.form {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.form label {
+  text-align: start;
+  font-size: 20px;
+  padding: 8px;
+  font-weight: 700;
+}
+
+.form input {
+  margin: 4px;
+  height: 24px;
+}
+
+.form button {
+  width: 20%;
+  padding: 4px;
+  border-radius: 0;
+  color: white;
+  background-color: blueviolet;
+  border-color: blueviolet;
+  margin: 4px;
+  font-size: 18px;
+}
